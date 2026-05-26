@@ -66,9 +66,9 @@ These are academic and applied analytics projects I am preparing for GitHub with
 
 ## GitHub Stats
 
-![Sreenath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree0-0-9&show_icons=true&theme=default&hide_border=true)
+![Sreenath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree0-0-9&show_icons=true&theme=default&hide_border=true&cache_seconds=86400&v=2)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sree0-0-9&layout=compact&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sree0-0-9&layout=compact&hide_border=true&cache_seconds=86400&v=2)
 
 ## Connect
 
