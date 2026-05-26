@@ -37,16 +37,16 @@ I bring hands-on experience in credit underwriting, affordability assessment, KY
 
 ## Portfolio Projects
 
-These are academic and applied analytics projects I am preparing for GitHub with cleaned notebooks, reports, dashboards, and documentation.
+These are academic and applied analytics projects prepared as public portfolio repositories with cleaned notebooks, reports, datasets, and documentation.
 
 | Project | Summary | Tools |
 | --- | --- | --- |
-| Global Tourism Recovery and Visitor Sentiment Analysis | Analysed post-COVID tourism recovery using UN Tourism arrivals, World Bank GDP data, country-code integration, COVID phase labels, and visitor sentiment context. | Python, pandas, NumPy, Seaborn, Matplotlib, NLTK |
-| PlatefulNZ Customer Churn Prediction | Built churn analysis for a NZ meal-kit provider, comparing logistic regression, random forest, and LightGBM to identify retention drivers and at-risk customer segments. | R, predictive analytics, classification, feature engineering |
+| [LendingClub Loan Interest Rate Modelling](https://github.com/Sree0-0-9/lendingclub-loan-interest-rate-modelling) | Used borrower and loan attributes to explore loan grade distribution, feature engineering, and tree-based regression for fintech lending analysis. | Python, scikit-learn, decision trees |
+| [Macroeconomic Data Warehouse](https://github.com/Sree0-0-9/macroeconomic-data-warehouse-sqlite) | Designed a SQLite star schema for macroeconomic indicators, including country, time, measure, activity dimensions and fact tables for GDP growth, PPP expenditure, and productivity. | SQLite, SQL, data warehousing |
+| [House Price Prediction](https://github.com/Sree0-0-9/house-price-prediction) | Prepared imperfect housing data, handled missing values, selected regression models with cross-validation, evaluated performance, and interpreted feature importance. | Python, scikit-learn, GridSearchCV |
+| [Global Tourism Recovery Analysis](https://github.com/Sree0-0-9/tourism-recovery-analysis) | Analysed post-COVID tourism recovery using UN Tourism arrivals, World Bank GDP data, country-code integration, COVID phase labels, and visitor sentiment context. | Python, pandas, NumPy, Seaborn, Matplotlib, NLTK |
+| [PlatefulNZ Customer Churn Prediction](https://github.com/Sree0-0-9/platefulnz-customer-churn-prediction) | Built churn analysis for a NZ meal-kit provider, comparing logistic regression, random forest, and LightGBM to identify retention drivers and at-risk customer segments. | R, predictive analytics, classification, feature engineering |
 | Netflix Content Clustering | Applied k-means clustering to Netflix/movie data using genre, duration, country, and critic score features, including one-hot encoding, scaling, PCA visualisation, and cluster profiling. | R, Power BI, k-means, PCA, ggplot2 |
-| Macroeconomic Data Warehouse | Designed a SQLite star schema for macroeconomic indicators, including country, time, measure, activity dimensions and fact tables for GDP growth, PPP expenditure, and productivity. | SQLite, SQL, data warehousing |
-| LendingClub Loan Interest Rate Modelling | Used borrower and loan attributes to explore loan grade distribution, feature engineering, and tree-based regression for fintech lending analysis. | Python, scikit-learn, decision trees |
-| House Price Prediction | Prepared imperfect housing data, handled missing values, selected regression models with cross-validation, evaluated performance, and interpreted feature importance. | Python, scikit-learn, GridSearchCV |
 | Portfolio and Risk Factor Modelling | Simulated stochastic processes and estimated a Fama-French three-factor model for a buy-and-hold technology portfolio. | Python, NumPy, pandas, statsmodels, yfinance |
 | Conference Project Scheduling Analysis | Evaluated project completion risk using critical path analysis, scenario crashing, cost trade-offs, and confidence-based delivery planning. | Project Libre, Excel, project analytics |
 
@@ -60,15 +60,9 @@ These are academic and applied analytics projects I am preparing for GitHub with
 
 ## Currently Building
 
-- Public GitHub versions of my university analytics projects with reproducible notebooks and clear READMEs
+- Additional public GitHub versions of my university analytics projects with reproducible notebooks and clear READMEs
 - Power BI dashboards for portfolio, customer, and risk analysis
 - A fintech analytics portfolio connecting credit risk experience with Python, SQL, R, and business intelligence
-
-## GitHub Stats
-
-![Sreenath's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sree0-0-9&show_icons=true&theme=default&hide_border=true&cache_seconds=86400&v=2)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sree0-0-9&layout=compact&hide_border=true&cache_seconds=86400&v=2)
 
 ## Connect
 
