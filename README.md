@@ -1,6 +1,6 @@
 # Hi, I'm Sreenath Suman
 
-Credit risk and lending professional transitioning deeper into business analytics, fintech, and data-driven decision support.
+Credit risk and lending professional turning underwriting experience into analytics projects across fintech, forecasting, customer behaviour, Power BI dashboards, and decision-support models.
 
 I bring hands-on experience in credit underwriting, affordability assessment, KYC/compliance checks, financial documentation review, and lending decision support. I am currently completing a Master of Business Analytics at the University of Auckland, with a focus on applying analytics, dashboards, and machine learning to real business and financial problems.
 
@@ -13,6 +13,12 @@ I bring hands-on experience in credit underwriting, affordability assessment, KY
 - Business analytics for fintech, customer behaviour, operations, and strategic decision-making
 - Data cleaning, modelling, reporting, dashboarding, and communicating insights for business users
 - Building a practical portfolio across Python, SQL/SQLite, Power BI, R, Excel, and project analytics
+
+## Featured Work
+
+- Built fintech lending models using borrower attributes to analyse loan interest rate drivers.
+- Designed Power BI and R-based analytics workflows for Netflix content clustering and customer behaviour analysis.
+- Created SQL/SQLite, Excel, Python, and project analytics portfolio work across finance, tourism, retirement planning, and scheduling risk.
 
 ## Technical Toolkit
 
