@@ -48,9 +48,8 @@ These are academic and applied analytics projects prepared as public portfolio r
 | [PlatefulNZ Customer Churn Prediction](https://github.com/Sree0-0-9/platefulnz-customer-churn-prediction) | Built churn analysis for a NZ meal-kit provider, comparing logistic regression, random forest, and LightGBM to identify retention drivers and at-risk customer segments. | R, predictive analytics, classification, feature engineering |
 | [Netflix Content Clustering and Power BI Dashboard](https://github.com/Sree0-0-9/netflix-content-clustering-powerbi) | Applied k-means clustering to Netflix/movie data using genre, duration, country, and critic score features, with dashboard pages for ratings, country trends, and content strategy. | R, Power BI, k-means, PCA, ggplot2 |
 | [Superannuation Retirement Planning Sensitivity Analysis](https://github.com/Sree0-0-9/superannuation-retirement-planning-sensitivity-analysis) | Modelled retirement readiness using annuity logic, Monte Carlo-style scenario analysis, and sensitivity testing across contribution, return, inflation, and allocation assumptions. | Excel, financial modelling, sensitivity analysis |
-| Portfolio and Risk Factor Modelling | Simulated stochastic processes and estimated a Fama-French three-factor model for a buy-and-hold technology portfolio. | Python, NumPy, pandas, statsmodels, yfinance |
-| Conference Project Scheduling Analysis | Evaluated project completion risk using critical path analysis, scenario crashing, cost trade-offs, and confidence-based delivery planning. | Project Libre, Excel, project analytics |
-
+| [Portfolio and Risk Factor Modelling](https://github.com/Sree0-0-9/portfolio-risk-factor-modelling) | Simulated stochastic processes and estimated a Fama-French three-factor model for a buy-and-hold technology portfolio. | Python, NumPy, pandas, statsmodels, yfinance |
+| [Conference Project Scheduling Analysis](https://github.com/Sree0-0-9/conference-project-scheduling-analysis) | Evaluated project completion risk using critical path analysis, scenario crashing, cost trade-offs, and confidence-based delivery planning. | Project Libre, Excel, project analytics |
 ## Credit Risk and Lending Background
 
 - Assessed customer creditworthiness using income, liabilities, repayment behaviour, and financial documentation.
