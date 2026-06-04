@@ -5,6 +5,8 @@ Credit risk and lending professional turning underwriting experience into analyt
 I bring hands-on experience in credit underwriting, affordability assessment, KYC/compliance checks, financial documentation review, and lending decision support. I am currently completing a Master of Business Analytics at the University of Auckland, with a focus on applying analytics, dashboards, and machine learning to real business and financial problems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sree0--0--9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sree0-0-9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sreenath%20Suman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenathsuman)
+[![Email](https://img.shields.io/badge/Email-sreenathsuman1%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreenathsuman1@gmail.com)
 [![Location](https://img.shields.io/badge/Auckland-New%20Zealand-0078D4?style=for-the-badge)](https://github.com/Sree0-0-9)
 
 ## Professional Focus
@@ -56,6 +58,7 @@ These are academic and applied analytics projects prepared as public portfolio r
 | [Superannuation Retirement Planning Sensitivity Analysis](https://github.com/Sree0-0-9/superannuation-retirement-planning-sensitivity-analysis) | Modelled retirement readiness using annuity logic, Monte Carlo-style scenario analysis, and sensitivity testing across contribution, return, inflation, and allocation assumptions. | Excel, financial modelling, sensitivity analysis |
 | [Portfolio and Risk Factor Modelling](https://github.com/Sree0-0-9/portfolio-risk-factor-modelling) | Simulated stochastic processes and estimated a Fama-French three-factor model for a buy-and-hold technology portfolio. | Python, NumPy, pandas, statsmodels, yfinance |
 | [Conference Project Scheduling Analysis](https://github.com/Sree0-0-9/conference-project-scheduling-analysis) | Evaluated project completion risk using critical path analysis, scenario crashing, cost trade-offs, and confidence-based delivery planning. | Project Libre, Excel, project analytics |
+
 ## Credit Risk and Lending Background
 
 - Assessed customer creditworthiness using income, liabilities, repayment behaviour, and financial documentation.
@@ -74,7 +77,6 @@ These are academic and applied analytics projects prepared as public portfolio r
 
 - GitHub: [Sree0-0-9](https://github.com/Sree0-0-9)
 - LinkedIn: [linkedin.com/in/sreenathsuman](https://www.linkedin.com/in/sreenathsuman)
-- Portfolio: Add your portfolio or project site
 - Email: [sreenathsuman1@gmail.com](mailto:sreenathsuman1@gmail.com)
 
 ---
