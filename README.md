@@ -2,7 +2,7 @@
 
 Credit risk and lending professional turning underwriting experience into analytics projects across fintech, forecasting, customer behaviour, Power BI dashboards, and decision-support models.
 
-I bring hands-on experience in credit underwriting, affordability assessment, KYC/compliance checks, financial documentation review, and lending decision support. I am currently completing a Master of Business Analytics at the University of Auckland, with a focus on applying analytics, dashboards, and machine learning to real business and financial problems.
+I bring hands-on experience in credit underwriting, affordability assessment, KYC/compliance checks, financial documentation review, lending decision support, and research analytics. I am currently completing a Master of Business Analytics at the University of Auckland, with a focus on applying analytics, dashboards, automation, and machine learning to real business and financial problems.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sree0--0--9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sree0-0-9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sreenath%20Suman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenathsuman)
@@ -16,10 +16,20 @@ I bring hands-on experience in credit underwriting, affordability assessment, KY
 - Data cleaning, modelling, reporting, dashboarding, and communicating insights for business users
 - Building a practical portfolio across Python, SQL/SQLite, Power BI, R, Excel, and project analytics
 
+## Current Experience
+
+**Research Analyst Intern | Technology Investment Network (TIN), Devonport, Auckland**
+
+- Supporting company research, data validation, survey follow-up, and market intelligence preparation for New Zealand technology-sector reporting.
+- Working with company datasets, contact information, shortlists, trend identification, estimation support, report graphs, and final data-quality checks.
+- Building Python and one-click batch-file automation to streamline Power BI workflow tasks and reduce manual reporting effort.
+- Applying business analytics, data cleaning, dashboarding, and research judgement in a real industry-facing environment.
+
 ## Featured Work
 
 - Built fintech lending models using borrower attributes to analyse loan interest rate drivers.
 - Designed Power BI and R-based analytics workflows for Netflix content clustering and customer behaviour analysis.
+- Developing internal Power BI workflow automation using Python and batch scripting as part of research analyst internship work.
 - Created SQL/SQLite, Excel, Python, and project analytics portfolio work across finance, tourism, retirement planning, and scheduling risk.
 
 ## Technical Toolkit
@@ -39,6 +49,7 @@ I bring hands-on experience in credit underwriting, affordability assessment, KY
 | Data analysis | Python, pandas, NumPy, R, Excel, data cleaning, feature engineering |
 | Databases | SQL, SQLite, star schema design, fact/dimension modelling, joins, aggregation |
 | Visualisation | Power BI, DAX, Power Query, Matplotlib, Seaborn, ggplot2, dashboard storytelling |
+| Automation | Python scripting, batch files, workflow automation, Power BI process support |
 | Machine learning | Regression, decision trees, random forests, LightGBM, clustering, model evaluation |
 | Finance analytics | Credit assessment, affordability, repayment capacity, FOIR, DTI, LTV, Fama-French modelling |
 | Project management | Project Libre, critical path analysis, crashing analysis, risk-aware delivery planning |
@@ -70,7 +81,7 @@ These are academic and applied analytics projects prepared as public portfolio r
 ## Currently Building
 
 - Additional public GitHub versions of my university analytics projects with reproducible notebooks and clear READMEs
-- Power BI dashboards for portfolio, customer, and risk analysis
+- Power BI dashboards and workflow automation for research, portfolio, customer, and risk analysis
 - A fintech analytics portfolio connecting credit risk experience with Python, SQL, R, and business intelligence
 
 ## Connect
