@@ -22,14 +22,14 @@ I bring hands-on experience in credit underwriting, affordability assessment, KY
 
 - Supporting company research, data validation, survey follow-up, and market intelligence preparation for New Zealand technology-sector reporting.
 - Working with company datasets, contact information, shortlists, trend identification, estimation support, report graphs, and final data-quality checks.
-- Building Python and one-click batch-file automation to streamline Power BI workflow tasks and reduce manual reporting effort.
+- Building Python and one-click batch-file automation to streamline data preparation, Power BI-ready outputs, reporting graphs, and dashboard visualisation workflows.
 - Applying business analytics, data cleaning, dashboarding, and research judgement in a real industry-facing environment.
 
 ## Featured Work
 
 - Built fintech lending models using borrower attributes to analyse loan interest rate drivers.
 - Designed Power BI and R-based analytics workflows for Netflix content clustering and customer behaviour analysis.
-- Developing internal Power BI workflow automation using Python and batch scripting as part of research analyst internship work.
+- Developing Python and one-click batch-file automation that supports data processing, reporting graphs, and Power BI dashboard visualisation workflows.
 - Created SQL/SQLite, Excel, Python, and project analytics portfolio work across finance, tourism, retirement planning, and scheduling risk.
 
 ## Technical Toolkit
