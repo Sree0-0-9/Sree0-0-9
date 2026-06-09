@@ -16,14 +16,19 @@ I bring hands-on experience in credit underwriting, affordability assessment, KY
 - Data cleaning, modelling, reporting, dashboarding, and communicating insights for business users
 - Building a practical portfolio across Python, SQL/SQLite, Power BI, R, Excel, and project analytics
 
-## Current Experience
+## Professional Experience
 
-**Research Analyst Intern | Technology Investment Network (TIN), Devonport, Auckland**
+**Research Analyst Intern | Technology Investment Network (TIN)**  
+*Apr 2026 - Present | Auckland, New Zealand*  
+Supporting technology-sector research, data validation, reporting, and Python-based automation for Power BI-ready workflows.
 
-- Supporting company research, data validation, survey follow-up, and market intelligence preparation for New Zealand technology-sector reporting.
-- Working with company datasets, contact information, shortlists, trend identification, estimation support, report graphs, and final data-quality checks.
-- Building Python and one-click batch-file automation to streamline data preparation, Power BI-ready outputs, reporting graphs, and dashboard visualisation workflows.
-- Applying business analytics, data cleaning, dashboarding, and research judgement in a real industry-facing environment.
+**Assistant Manager Credit | Leap Finance**  
+*Nov 2021 - Mar 2025 | Bengaluru, India*  
+Assessed international education loan applications through credit analysis, affordability assessment, customer discussions, KYC, and underwriting support.
+
+**Credit Manager | The Muthoot Group**  
+*Sep 2019 - May 2021 | India*  
+Evaluated personal loan applications, conducted customer discussions and field verification, and supported responsible lending decisions.
 
 ## Featured Work
 
