@@ -1,8 +1,8 @@
 # Hi, I'm Sreenath Suman
 
-Credit risk and lending professional turning underwriting experience into analytics projects across fintech, forecasting, customer behaviour, Power BI dashboards, and decision-support models.
+Focused on credit risk, lending assessment, underwriting support, and business analytics, turning customer-facing credit experience into analytics projects across fintech, forecasting, customer behaviour, Power BI dashboards, automation, and decision-support models.
 
-I bring hands-on experience in credit underwriting, affordability assessment, KYC/compliance checks, financial documentation review, lending decision support, and research analytics. I am currently completing a Master of Business Analytics at the University of Auckland, with a focus on applying analytics, dashboards, automation, and machine learning to real business and financial problems.
+I bring hands-on experience in credit assessment, underwriting support, affordability and repayment-capacity review, KYC/compliance checks, financial documentation review, customer discussions, lending decision support, portfolio monitoring, and research analytics. I completed a Master of Business Analytics at the University of Auckland, specialising in Financial Technology, with applied projects across Python, SQL/SQLite, Power BI, R, Excel, machine learning, data warehousing, financial modelling, and business decision support.
 
 [![GitHub](https://img.shields.io/badge/GitHub-Sree0--0--9-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sree0-0-9)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Sreenath%20Suman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sreenathsuman)
@@ -11,10 +11,10 @@ I bring hands-on experience in credit underwriting, affordability assessment, KY
 
 ## Professional Focus
 
-- Credit risk analysis, lending decision support, and financial statement interpretation
+- Credit assessment, lending decision support, underwriting support, and credit risk review
 - Business analytics for fintech, customer behaviour, operations, and strategic decision-making
 - Data cleaning, modelling, reporting, dashboarding, and communicating insights for business users
-- Building a practical portfolio across Python, SQL/SQLite, Power BI, R, Excel, and project analytics
+- Practical portfolio work across Python, SQL/SQLite, Power BI, R, Excel, and project analytics
 
 ## Professional Experience
 
