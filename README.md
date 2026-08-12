@@ -19,7 +19,7 @@ I bring hands-on experience in credit underwriting, affordability assessment, KY
 ## Professional Experience
 
 **Research Analyst Intern | Technology Investment Network (TIN)**  
-*Apr 2026 - Present | Auckland, New Zealand*  
+*Apr 2026 - Jul 2026 | Auckland, New Zealand*  
 Supporting technology-sector research, data validation, reporting, and Python-based automation for Power BI-ready workflows.
 
 **Assistant Manager Credit | Leap Finance**  
